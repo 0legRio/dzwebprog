@@ -59,5 +59,7 @@
                 <td>&#9733;&#9733;&#9733;&#9733;</td>
             </tr>
         </table>
+        <h4><a href ="hobby.html">Мої хоббі</a><br>
+            <a href ="contacts.html">Мої контакти</a></h4>
     </body>
 </html>
